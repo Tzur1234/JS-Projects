@@ -16,7 +16,7 @@ Through the project I have learned about two important asspects : DOM and LocalS
 
 -----------------------------------------------------------------------
 
-#loanClaculator#
+# loanClaculator
 
 In this project I have build a loanCalculator. 
 It takes 3 parameters : the amount of loan , the interest and the number of years to return the loan
