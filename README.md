@@ -15,3 +15,16 @@ Through the project I have learned about two important asspects : DOM and LocalS
 
 
 -----------------------------------------------------------------------
+
+#loanClaculator#
+
+In this project I have build a loanCalculator. 
+It takes 3 parameters : the amount of loan , the interest and the number of years to return the loan
+
+I learned about:
+1. How to add elements + error messages and how to remove them after a set of time 
+2, How to use 'insertBefore' function
+3. How to extract value from input elements and how to insert value into them
+4. How to use setTimeout function in order to run a function aftter a specific amount of time
+
+- all of the project was focused on the DOM object
