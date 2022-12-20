@@ -4,7 +4,7 @@ I wrote task application completely with JavaScript and HTML.
 Features:
 1. Add new tasks
 2. dleate a specific task or all of the tasks
-3. The data is being updated שמירת התרגום
+3. The data is being updated 
 synchronicity in the local storage
 
 Through the project I have learned about two important asspects : DOM and LocalStorage
@@ -28,3 +28,12 @@ I learned about:
 4. How to use setTimeout function in order to run a function aftter a specific amount of time
 
 - all of the project was focused on the DOM object
+
+
+# Number-Gusser play
+Applicatiom game where you have to guess the number between two given numbers.
+Any time you win / lose you ger the option to play again
+
+- Practice the usage of DOM
+- Using global veriables
+- Usage of Math class
