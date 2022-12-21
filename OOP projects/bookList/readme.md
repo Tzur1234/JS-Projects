@@ -10,3 +10,7 @@ The UI object has several prototype, each of them has a function
 
 The main goal of this project is to practice the usage of classes with ES5
 
+# bookList - ES6
+I have wrote the same app but this time i use the ES6 with make the usage of classes more comfortable and simple.
+
+
