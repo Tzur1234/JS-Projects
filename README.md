@@ -37,3 +37,25 @@ Any time you win / lose you ger the option to play again
 - Practice the usage of DOM
 - Using global veriables
 - Usage of Math class
+
+# API projects 
+
+# githubFinder:
+simple search app for users and their repositories. 
+I used GitHub's API 
+
+# Weather
+simple app give you a real time weather forcast.
+You only have to give correct coordinates. 
+
+The app validates the input and make a new fetch API request for the forcast whether based on the givven coordinates
+
+I have learned:
+1. What Is Asynchronous Programming?
+2. How to use HXR object for creating http request
+3. REST APIs & HTTP Requests
+4.  How to use callback for synchronous functions 
+4. Fetch API
+5. How to simplify my code by using Arrow funcions
+6. Async & Await 
+7. Fetch with Async Await 
